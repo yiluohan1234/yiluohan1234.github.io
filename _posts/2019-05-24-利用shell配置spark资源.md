@@ -2,9 +2,9 @@
 title: 	利用shell配置spark资源
 date: 2019-05-24 23:30:09
 categories:
-- Foo
-- Bar
-- Baz
+- spark
+tags:
+- spark
 
 ---
 
